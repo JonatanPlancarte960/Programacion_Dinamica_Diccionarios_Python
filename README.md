@@ -1,0 +1,2 @@
+# Programacion Dinamica con Diccionarios en Python
+En este codigo se hace uso de la Programacion Dinamica con diccionarios y un conjunto de diversas funciones en python utilizadas en anteriores repositorios, como el uso de ciclos for, diccionarios, cadenas de datos y mas.
